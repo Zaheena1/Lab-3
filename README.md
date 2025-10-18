@@ -12,6 +12,8 @@ This is another local edit.
 First test line added for reset task.
 
 Remote edit 3: This is the GitHub version of the line.
+Local edit 3: This is the local version of the same line.
+
 
 
 Forgot this line earlier – adding now
