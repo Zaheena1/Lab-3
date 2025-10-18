@@ -11,7 +11,7 @@ This is another local edit.
 
 First test line added for reset task.
 
-Fixing log message for amend demo
+Fixing log message for amend demo.
 
 Forgot this line earlier – adding now
 
