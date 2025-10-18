@@ -11,7 +11,8 @@ This is another local edit.
 
 First test line added for reset task.
 
-Fixing log message for amend demo.
+Remote edit 3: This is the GitHub version of the line.
+
 
 Forgot this line earlier – adding now
 
